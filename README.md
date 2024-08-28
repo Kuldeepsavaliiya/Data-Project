@@ -8,7 +8,6 @@ This project is part of my learning journey through Cisco's data analytics cours
 - Introduction
 - Data Sources
 - Project Structure
-- Installation
 - Usage
 - Results
 - Contributing
